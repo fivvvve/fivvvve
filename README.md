@@ -1,38 +1,49 @@
-## Sobre mim 📚
+## About 📚
 
-👋 Olá! Sou Thiago Fernandes, formado em CCO na UNIFEI. Aqui você pode encontrar projetos de estruturas de dados, desenvolvimento web e python.
+👋 Hello! My name is Thiago Fernandes, graduated in Computer Science at UNIFEI. Here you'll find projects about data structures, web development and Python.
 
-🌍 Resido em São Lourenço-MG/Itajubá-MG
+🌍 São Lourenço-MG/Itajubá-MG
 
-🤝 Aberto a colaborações e oportunidades de aprendizado
+🤝 Open to collaborations and learning opportunities
 
-## Projetos em destaque 🚀
+## Featured Projects 🚀
 
-Sistema-de-Alocacao-de-Laboratorios: Projeto web que permite a alocação de laboratórios em um determinado ambiente contento quatro tipos de reservas disponíveis. Feito com React.js no frontend e Express no backend.
+Sistema de Alocação de Laboratórios: Web project that allows the allocation of labs within a specific environment, offering four different reservation types. Built using React.js on the frontend and Express on the backend.
 
-Projeto-SDES06: Projeto de um unificador de atividades, permitindo que usuários adicionem atividades a serem realizadas e entre em grupos de outros usuários. Feito com React.js no frontend e Express no backend.
+Football Tracker Mobile Front: Frontend of a football app for visualizing data from leagues, teams, players and matches of the world football. Built using React Native with Expo.
 
-Curse-of-Revenge: Jogo 2D do estilo platformer. Feito utilizando Unity com C#.
+Projeto SDES06: Project of an activity unifier that allows users to create their own activities to be done and to join another users groups. Built using React.js on the frontend and Express on the backend.
 
-## Tecnologias 💻
+## Technologies 💻
 
+### Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20native-000?&logo=React)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Backend
 ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PrismaORM](https://img.shields.io/badge/Prisma-ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Tools
 ![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
